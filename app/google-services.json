@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485030822676",
+    "project_id": "datasiswaapp-733e4",
+    "storage_bucket": "datasiswaapp-733e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485030822676:android:4262809db17080af42b801",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGIX602V9sJK0aZYWiO0B6umF7FK_C7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
